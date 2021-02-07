@@ -1,7 +1,7 @@
 # serverset
 Creating a Node app with React, Webpack 4, Babel 7, and Express 
 
-Make a new directory. Let's call it react-boilerplate.
+Make a new directory. Let's call it reactserver.
 mkdir reactserver
 
 Now, initialize the node project.
